@@ -15,7 +15,7 @@
     "@beyonk/svelte-mapbox": "^3.0.0",
     "axios": "^0.19.2",
     "compression": "^1.7.1",
-    "jsdom": "^16.2.0",
+    "jsdom": "^16.5.0",
     "mapbox": "^1.0.0-beta10",
     "polka": "next",
     "requirejs": "^2.3.6",
